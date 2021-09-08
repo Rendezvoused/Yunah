@@ -16,11 +16,7 @@
 }
 body {
     background-color:#fff;
-    background-image:url('https://assets.tumblr.com/images/x.gif?v=1');
-    background-attachment:fixed;
-    background-position:center center;
-    background-repeat:no-repeat;
-    background-size:cover;
+    background-image:url('https://i.postimg.cc/nz8YVpZJ/18ba44ad4695c2c6dd93f942413b17745f4a55e6.png');
     color:#4f4e4e;
     font-family: 'Karla', sans-serif;
     font-size:11px;
@@ -172,9 +168,6 @@ h2 {
     height:650px;
     box-shadow: 0px 0px 2px 0px rgba(79,78,78,0.3);
     border-radius:3px;
-    border-left:7px solid #ffffff;border-right:7px solid #ffffff;
-    background-color:#fafafa;
-    background-image:url('https://i.postimg.cc/nz8YVpZJ/18ba44ad4695c2c6dd93f942413b17745f4a55e6.png');
     background-attachment:fixed;
     background-position:center center;
     background-repeat:repeat;
