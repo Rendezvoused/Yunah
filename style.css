@@ -1,6 +1,19 @@
 ::-webkit-scrollbar-thumb {background-color:#F3D6CE;}
 ::-webkit-scrollbar {background-color:transparent; width:1px;}
+@font-face {
+    font-family: 'quirky symbols';
+    src: url(https://static.tumblr.com/6amorxd/gb3q8qb1m/quirkyspring_symbols.otf);
+}
 
+@font-face {
+    font-family: 'quirky';
+    src: url(https://static.tumblr.com/6amorxd/UG9q8q9yd/quirkyspring_regular.woff);
+}
+
+@font-face {
+    font-family: 'quirky outline';
+    src: url(https://static.tumblr.com/6amorxd/nwOqad4af/quirkyspring_outline.woff);
+}
 body {
     background-color:#fafafa;
     background-image:url('https://assets.tumblr.com/images/x.gif?v=1');
